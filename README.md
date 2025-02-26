@@ -1,4 +1,4 @@
-# Math-Academy-Analysis
+# Education Data Analysis for Math Academy
 
 ## Table of Contents
 - [Introduction](#introduction)
